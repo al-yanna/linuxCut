@@ -1,0 +1,7 @@
+#!/bin/bash
+
+./a.out ,, . 2 4 5 6 9 <input   #wrong input delimiter
+./a.out , . 2 4-6 9 <input      #wrong field(s)
+./a.out  <input                 #CLAs missing
+./a.out , . 4 4 5 6 9 <input    #wrong field(s)
+./a.out , . 4 2 5  <input       #wrong field(s)
