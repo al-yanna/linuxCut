@@ -1,8 +1,0 @@
-#!/bin/bash
-
-echo "testit: "
-./testit
-echo "propercalls: "
-./propercalls
-echo "singlecalls: "
-./singlecalls
