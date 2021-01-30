@@ -1,5 +1,5 @@
 # linuxCut
-C Implementation of the Linux "cut" command.
+C implementation of the Linux "cut" command.
 
 ## How to Run
 
